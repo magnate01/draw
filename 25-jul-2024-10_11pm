@@ -405,7 +405,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Network Types (LAN, PAN, WAN)" id="AwbPSD4nInguepFdAFDT">
-    <mxGraphModel dx="1880" dy="1320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1644" dy="1320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -592,8 +592,17 @@
         <mxCell id="db68dhbiQhcYLeT9FHk_-1" value="&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;LAN : Local area network&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;MAN: Metropolitan area network&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;PAN: Personal area network&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;WAN: Wide area netwrok&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="-161" y="431" width="362" height="127" as="geometry" />
         </mxCell>
-        <mxCell id="UQAa1lFPVVJEZQ1atj1--15" value="" style="shape=stencil(lVdJcttADHwNryjMisHZcf7hKssRK4rkkuUk/r3BMGQ0cNgq37h0c7A1AA7p7mX/8LwbIr9czqfvu1/j42U/pC9DjONxvzuPF7sa0v2Q7p5O59238+n1+DjfPz9MyOnqx+nn9IXfMy9QlIkU+W1+UJUk/XnydcYfxuM1vlKsHaE0amGbEO01d4QsFMAJuVCIHSFFSKhhsXghBDuhbBMkU+idFlKAb4lKf0Ambtt4ZZLW4SNlhC8kfYgCNeCwNo9nYgZ4pRAcXkDKDJ+9/Q3Ex/DiioiCQvzfcK/+MiUQoMCrgyuj3HJZe5eDUsnYh/6EmG4RkvaESgVlWb0PJo2ETmjL964IFddFcAShjAiy1NlKyNQqJJQ+01aqMNVmQO7zUJd+sElwYjb13zCpb0hCgqIqS7u6EnPEQe2/H2CtTlnr8UwBOdxIm8MnLM4kzh7FYqvq/FUUzw/KMQNBfP6nzUQZtwt1EW3EgrXppBYpYfUXJ7W1xW52SCcEWcKw2YL7IRUbPuHThOKn2iRmPHW8mNsy3LfGWnWD1lIJSsPmZupPSOsk3ZrM6gZngtuFzX53QlGKQM1RF/Gu6s9wllv7cQ2pCVU0eyi7YmU8bYMvJSsutCCx70dTqYAssF9G1DoqaAC8SGXFr2ncwLv1S21HBA2AfQYabsAf2kWzBgzt5z4BjSlDfOibhdg2CO1xc9wqCJUcU+2XFwmw4tgvO2L2o4b62Y38Jt4u/q3/T+PhMP89XL/3vwv2aP7VSPfv);lineShape=1;strokeColor=#FF3399;" vertex="1" parent="1">
-          <mxGeometry x="123.50075461288748" y="239.60240976702903" width="109.97997437872618" height="9.895164854910718" as="geometry" />
+        <mxCell id="oG29-rA5Bq9SCgxiB-3s-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Client&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="87" y="630" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="oG29-rA5Bq9SCgxiB-3s-2" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Server&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="473" y="621" width="124" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="oG29-rA5Bq9SCgxiB-3s-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="126" y="727" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="oG29-rA5Bq9SCgxiB-3s-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="488" y="719" width="50" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
